@@ -1,5 +1,5 @@
 <?php
 
-# index php file
+# index php file - test 2
 
 ?>
